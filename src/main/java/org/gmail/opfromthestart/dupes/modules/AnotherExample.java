@@ -1,4 +1,4 @@
-package dummy.addon.template.modules;
+package org.gmail.opfromthestart.dupes.modules;
 
 import meteordevelopment.meteorclient.systems.modules.Categories;
 import meteordevelopment.meteorclient.systems.modules.Module;

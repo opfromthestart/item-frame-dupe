@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "item-frame-dupe",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "Dupe Plugin",
+  "description": "A plugin for duping",
   "authors": [
-    "seasnail8169"
+    "opfromthestart"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/opfromthestart/item-frame-dupe"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "dummy.addon.template.TemplateAddon"
+      "org.gmail.opfromthestart.dupes.DupeAddon"
     ]
   },
   "mixins": [
